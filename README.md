@@ -10,9 +10,12 @@
 
 ## 创建类操作符
 
-1. [interval](src/app/create-operator/interval.ts)   
 
-2. [timer](src/app/create-operator/timer.ts)   
+1. [formEvent](src/app/create-operators/from-event.ts)   
+2. [from](src/app/create-operators/from.ts)   
+3. [of](src/app/create-operators/of.ts)   
+4. [interval](src/app/create-operators/interval.ts)   
+5. [timer](src/app/create-operators/timer.ts)   
 
 
 ## 我参与的系列项目

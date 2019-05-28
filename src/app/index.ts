@@ -7,5 +7,8 @@
 // Empty = > 不发射任何元素，流里没有元素,直接进入complete 状态 有结束
 // Throw = > 不发射任何元素，流里没有元素，直接进入error 状态 
 
-import './create-operator/interval'
-// import './create-operator/timer'
+// import './create-operators/interval'
+// import './create-operators/timer'
+import './create-operators/from'
+// import './create-operators/from-event'
+// import './create-operators/of'

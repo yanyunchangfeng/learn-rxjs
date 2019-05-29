@@ -18,6 +18,24 @@
 5. [timer](src/app/create-operators/timer.ts)   
 
 
+## 测试
+
+### 安装
+```
+   npm install --save-dev jest typescript ts-jest @types/jest  or yarn add --dev jest typescript ts-jest @types/jest
+```
+### 创建测试ts类型的配置文件 jest config file
+```
+   npx ts-jest config:init or  yarn ts-jest config:init
+```
+### 具体配置参数文档 请参照官网：  
+https://jestjs.io/docs/en/configuration.html
+
+### 运行测试
+```
+npm t  or yarn test
+```
+
 ## 我参与的系列项目
 
 * NiceFish：美人鱼，这是一个微型Blog系统，前端基于Angular7.0 + PrimeNG7.1.0。 https://gitee.com/mumu-osc/NiceFish
@@ -36,7 +54,8 @@
 2. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
 3. [燕云长风Github](https://github.com/yanyunchangfeng)  
 4. [燕云长风Gitee](https://gitee.com/yanyunchangfeng)  
-4. [燕云长风Twitter](https://twitter.com/yanyunchangfeng)  
+5. [燕云长风Twitter](https://twitter.com/yanyunchangfeng)  
+6. [燕云长风Medium](https://medium.com/@yanyunchangfeng)  
  
 ## 开源许可证
 

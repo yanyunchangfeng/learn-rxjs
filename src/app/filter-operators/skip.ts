@@ -1,17 +1,17 @@
 import {interval} from 'rxjs'
-import {filter} from 'rxjs/operators';
+import {skip} from 'rxjs/operators';
 
-//过滤类操作符 filter
+//过滤类操作符 skip 省略掉前面多少个元素
 
-// filter
+// skip
 {
     const interval$ = interval(1000).pipe(
-        filter(value => value % 2 === 0)
+        skip(3)
     ) // 每隔1000毫秒发射一个值
     interval$.subscribe(
         val => console.log(val),
         err => console.log(err),
-        () => console.log('I am complete')
+        () => console.log('I am complete.')
     )
-    // 0 , 2 , 4 ...
+    // 3,4,5....
 }

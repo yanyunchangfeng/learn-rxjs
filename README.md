@@ -15,6 +15,39 @@
 3. [of](src/app/create-operators/of.ts)   
 4. [interval](src/app/create-operators/interval.ts)   
 5. [timer](src/app/create-operators/timer.ts)   
+5. [never](src/app/create-operators/never.ts)   
+5. [throwError](src/app/create-operators/throw-error.ts)   
+5. [empty](src/app/create-operators/empty.ts)   
+
+## 过滤类操作符
+
+1. [debounceTime](src/app/create-operators/debounce-time.ts)   
+2. [debounce](src/app/create-operators/debounce.ts)   
+3. [distinct](src/app/create-operators/distinct.ts)   
+3. [distinctUntilChanged](src/app/create-operators/distinct-until-changed.ts)   
+4. [filter](src/app/create-operators/filter.ts)   
+5. [reduce](src/app/create-operators/reduce.ts)   
+6. [scan](src/app/create-operators/scan.ts)   
+6. [take](src/app/create-operators/scan.ts)   
+6. [first](src/app/create-operators/first.ts)   
+6. [last](src/app/create-operators/last.ts)   
+
+## 转换类的操作符
+
+1. [map](src/app/transform-operators/map.ts) 
+2. [mapTo](src/app/transform-operators/map-to.ts) 
+3. [pluck](src/app/transform-operators/pluck.ts) 
+
+
+## 合并类的操作符
+
+1. [combineLatest](src/app/merge-operators/combine-latest.ts) 
+2. [concat](src/app/merge-operators/concat.ts) 
+3. [merge](src/app/merge-operators/merge.ts) 
+4. [startWith](src/app/merge-operators/start-with.ts) 
+5. [zip](src/app/merge-operators/zip.ts) 
+6. [withLatestFrom](src/app/merge-operators/with-latest-from.ts) 
+
 
 ## Jest测试
 
@@ -34,25 +67,25 @@
 npm t  or yarn test
 ```
 
-## 我参与的系列项目
-
-1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：美人鱼，这是一个微型Blog系统，前端基于Angular7.0 + PrimeNG7.1.0。
-2. [NiceFish-React]( https://gitee.com/mumu-osc/NiceFish-React)：这是React版的实现，界面外观完全相同。采用React Hooks 16.8.3 版本，使用TypeScript、Ant Design组件库以及Bootstrap v4.2.1 开发。
-3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS项目前端基于 Angular 7.0 + PrimeNG 7.1.0。 
-4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud )：这是NiceFish的服务端代码，基于SpringCloud。已经完成了一些基本的功能，如 SpringSecurity+OAuth2+JWT 实现SSO，文章、用户、评论等的分页查询等。如果你需要与这个后端代码进行对接，请检出本项目的 for-spring-cloud 分支。
-
 ## 我的个人博客  
 
-* [燕云长风](https://www.yanyunchangfeng.com)  
+* [燕云长风](https://www.yanyunchangfeng.com) 
 
+## 我参与的系列项目
+
+1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：美人鱼，这是一个微型Blog系统，前端基于Angular7.0 + PrimeNG7.1.0。（GVIP 码云最有价值的开源项目 3160 ☆)
+2. [NiceFish-React]( https://gitee.com/mumu-osc/NiceFish-React)：这是React版的实现，和 NiceFish Angular 版本保持风格一致。采用React Hooks 16.8.3 版本，使用TypeScript、Ant Design组件库以及Bootstrap v4.2.1 开发。  (7 ☆)
+3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS项目前端基于 Angular 7.0 + PrimeNG 7.1.0。  (已推荐 199 ☆)
+4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：这是NiceFish的服务端代码，基于SpringCloud。已经完成了一些基本的功能，如 SpringSecurity+OAuth2+JWT 实现SSO，文章、用户、评论等的分页查询等。如果你需要与这个后端代码进行对接，请检出本项目的 for-spring-cloud 分支。 (已推荐 113 ☆)
+ 
 ## 我的社交主页  
 
-1. [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng)  
-2. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
-3. [燕云长风Github](https://github.com/yanyunchangfeng)  
-4. [燕云长风Gitee](https://gitee.com/yanyunchangfeng)  
-5. [燕云长风Twitter](https://twitter.com/yanyunchangfeng)  
-6. [燕云长风Medium](https://medium.com/@yanyunchangfeng)  
+1. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
+2. [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng) 
+3. [燕云长风github](https://github.com/yanyunchangfeng)  
+4. [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
+5. [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
+6. [燕云长风medium](https://medium.com/@yanyunchangfeng)  
  
 ## 开源许可证
 

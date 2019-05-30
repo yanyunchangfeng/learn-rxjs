@@ -1,1 +1,1 @@
-import './create-operators/from';
+import './merge-operators/with-latest-from';

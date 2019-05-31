@@ -48,6 +48,17 @@
 5. [zip](src/app/merge-operators/zip.ts) 
 6. [withLatestFrom](src/app/merge-operators/with-latest-from.ts) 
 
+## 高阶操作符
+
+1. [mergeMap](src/app/senior-operators/merge-map.ts) 
+2. [switchMap](src/app/merge-operators/switch-map.ts) 
+
+## SubjectClass
+
+1. [Subject](src/app/subject-class/subject.ts) 
+2. [BehaviorSubject](src/app/subject-class/behavior-subject.ts) 
+3. [ReplaySubject](src/app/subject-class/replay-subject.ts) 
+
 
 ## Jest测试
 

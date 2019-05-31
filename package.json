@@ -6,7 +6,9 @@
   "scripts": {
     "start": "webpack-dev-server --env=dev",
     "build": "webpack --env=prod",
-    "test": "jest --config=config/jest.config.js"
+    "test": "jest --config=config/jest.config.js",
+    "lint": "tslint -p tsconfig.json",
+    "fix": "tslint --force --fix -p tsconfig.json"
   },
   "repository": {
     "type": "git",

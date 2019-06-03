@@ -6,8 +6,7 @@
     const counter$ = interval(1000).pipe(
         take(5)
     );
-    const subject = new BehaviorSubject(1);
-    console.dir(subject)
+    const subject = new BehaviorSubject(0);
     subject.next(10)
     subject.next(11)
     const observer1 = {

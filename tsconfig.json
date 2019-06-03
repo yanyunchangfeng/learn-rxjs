@@ -7,5 +7,6 @@
         "declaration": true,
         "noImplicitAny": true,
         "noImplicitReturns": true
-    }
+    },
+    "include": ["src/**/*.ts"]
 }

@@ -19,6 +19,10 @@
 5. [throwError](src/app/create-operators/throw-error.ts)   
 5. [empty](src/app/create-operators/empty.ts)   
 
+## 工具类操作符
+
+1. [tap](src/app/util-operators/tap.ts)   
+
 ## 过滤类操作符
 
 1. [debounceTime](src/app/filter-operators/debounce-time.ts)   

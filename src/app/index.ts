@@ -37,5 +37,6 @@
 // import './senior-operators/merge-map'
 // import './senior-operators/switch-map'
 // import './subject-class/subject'
-import './subject-class/behavior-subject'
+// import './subject-class/behavior-subject'
 // import './subject-class/replay-subject'
+import './util-operators/tap';

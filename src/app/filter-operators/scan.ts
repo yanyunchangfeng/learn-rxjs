@@ -1,4 +1,4 @@
-import {interval} from 'rxjs'
+import {interval, fromEvent} from 'rxjs'
 import {scan,take} from 'rxjs/operators';
 
 //过滤类操作符 scan 函数可以接受两个参数。第一个参数为函数，第二个参数为初始值，默认为零
@@ -19,3 +19,15 @@ import {scan,take} from 'rxjs/operators';
 }
 // 0 ----1 ---2
 // 0 ----1 ---3
+{
+    const btn = document.getElementById('btn');
+    const cal = document.getElementById('cal')
+    const btn$ = fromEvent(btn,'click').pipe(
+        scan(value => value+1,0)
+    )
+    btn$.subscribe(
+        value => {
+           cal.innerHTML = value+''
+        }
+    )
+}

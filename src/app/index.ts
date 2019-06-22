@@ -19,10 +19,11 @@
 // import './transform-operators/pluck'
 // import './filter-operators/filter'
 // import './filter-operators/take'
+import './filter-operators/takeUtil'
 // import './filter-operators/first'
 // import './filter-operators/last'
 // import './filter-operators/skip'
-import './filter-operators/scan'
+// import './filter-operators/scan'
 // import './filter-operators/reduce'
 // import './filter-operators/debounce'
 // import './filter-operators/debounce-time'
@@ -40,3 +41,4 @@ import './filter-operators/scan'
 // import './subject-class/behavior-subject'
 // import './subject-class/replay-subject'
 // import './util-operators/tap';
+// import './custom-operators/takeEveryNth';

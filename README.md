@@ -15,9 +15,9 @@
 3. [of](src/app/create-operators/of.ts)   
 4. [interval](src/app/create-operators/interval.ts)   
 5. [timer](src/app/create-operators/timer.ts)   
-5. [never](src/app/create-operators/never.ts)   
-5. [throwError](src/app/create-operators/throw-error.ts)   
-5. [empty](src/app/create-operators/empty.ts)   
+6. [never](src/app/create-operators/never.ts)   
+7. [throwError](src/app/create-operators/throw-error.ts)   
+8. [empty](src/app/create-operators/empty.ts)   
 
 ## 工具类操作符
 
@@ -32,9 +32,10 @@
 4. [filter](src/app/filter-operators/filter.ts)   
 5. [reduce](src/app/filter-operators/reduce.ts)   
 6. [scan](src/app/filter-operators/scan.ts)   
-6. [take](src/app/filter-operators/scan.ts)   
-6. [first](src/app/filter-operators/first.ts)   
-6. [last](src/app/filter-operators/last.ts)   
+7. [take](src/app/filter-operators/take.ts)   
+8. [takeUtil](src/app/filter-operators/takeUntil.ts)   
+9. [first](src/app/filter-operators/first.ts)   
+10. [last](src/app/filter-operators/last.ts)   
 
 ## 转换类的操作符
 
@@ -62,6 +63,10 @@
 1. [Subject](src/app/subject-class/subject.ts) 
 2. [BehaviorSubject](src/app/subject-class/behavior-subject.ts) 
 3. [ReplaySubject](src/app/subject-class/replay-subject.ts) 
+
+## 自定义操作符
+
+1. [takeEveryNth](src/app/custom-operators/takeEveryNth.ts)
 
 ## Jest Unit 测试
 
@@ -140,13 +145,18 @@ npm t  or yarn test
  
 ## 我的社交主页  
 
-1. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
-2. [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng) 
-3. [燕云长风github](https://github.com/yanyunchangfeng)  
-4. [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
-5. [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
-6. [燕云长风medium](https://medium.com/@yanyunchangfeng)  
- 
+1.  [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
+2.  [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng) 
+3.  [燕云长风github](https://github.com/yanyunchangfeng)  
+4.  [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
+5.  [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
+6.  [燕云长风medium](https://medium.com/@yanyunchangfeng)  
+7.  [燕云长风facebook](https://facebook.com/yanyunchangfeng)  
+8.  [燕云长风stackoverflow](http://stackoverflow.com/users/11366314)  
+9.  [燕云长风npm](https://npmjs.com/~yanyunchangfeng)  
+10. [燕云长风linkedin](https://www.linkedin.com/in/yanyunchangfeng)  
+11. [燕云长风youtube](https://www.youtube.com/channel/UCaz2-l8Bd8tTBf1q-2ww7VA)  
+12. [燕云长风gmail](mailto:yanyunchangfeng@gamil.com)  
 ## 开源许可证
 
 MIT

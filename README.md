@@ -41,6 +41,8 @@
 
 1. [map](src/app/transform-operators/map.ts) 
 2. [mapTo](src/app/transform-operators/map-to.ts) 
+2. [concatMap](src/app/transform-operators/concat-map.ts) 
+2. [concatMapTo](src/app/transform-operators/concat-map-to.ts) 
 3. [pluck](src/app/transform-operators/pluck.ts) 
 
 

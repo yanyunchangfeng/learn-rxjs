@@ -9,7 +9,7 @@ import { pluck, map, mergeMap } from 'rxjs/operators';
         map( _ => interval(100))
     );
     width$.subscribe(val=>{
-        val.subscribe(v => console.log(v)) // 流里有子流
+        // val.subscribe(v => console.log(v)) // 流里有子流
     })
 }
 

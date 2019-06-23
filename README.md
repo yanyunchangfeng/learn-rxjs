@@ -59,6 +59,8 @@
 
 1. [mergeMap](src/app/senior-operators/merge-map.ts) 
 2. [switchMap](src/app/senior-operators/switch-map.ts) 
+3. [mergeMapTo](src/app/senior-operators/merge-map-to.ts) 
+4. [mergeScan](src/app/senior-operators/merge-scan.ts) 
 
 ## Subject Class
 

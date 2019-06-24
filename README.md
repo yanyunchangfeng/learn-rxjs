@@ -41,9 +41,11 @@
 
 1. [map](src/app/transform-operators/map.ts) 
 2. [mapTo](src/app/transform-operators/map-to.ts) 
-2. [concatMap](src/app/transform-operators/concat-map.ts) 
-2. [concatMapTo](src/app/transform-operators/concat-map-to.ts) 
-3. [pluck](src/app/transform-operators/pluck.ts) 
+3. [concatMap](src/app/transform-operators/concat-map.ts) 
+4. [concatMapTo](src/app/transform-operators/concat-map-to.ts) 
+5. [pluck](src/app/transform-operators/pluck.ts) 
+6. [buffer](src/app/transform-operators/buffer.ts) 
+7. [bufferCount](src/app/transform-operators/buffer-count.ts) 
 
 
 ## 合并类的操作符

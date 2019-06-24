@@ -46,6 +46,7 @@
 5. [pluck](src/app/transform-operators/pluck.ts) 
 6. [buffer](src/app/transform-operators/buffer.ts) 
 7. [bufferCount](src/app/transform-operators/buffer-count.ts) 
+8. [bufferTime](src/app/transform-operators/buffer-time.ts) 
 
 
 ## 合并类的操作符

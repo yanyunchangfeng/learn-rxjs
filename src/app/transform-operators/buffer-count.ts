@@ -13,6 +13,8 @@ import { bufferCount } from 'rxjs/operators';
 }
 
 {
+    // 第一个参数bufferSize	 缓存区的最大长度。 第二个参数  startBufferEvery 确定何时启用新的缓冲区
+    // 如果startBufferEvery是2, 那么隔一个数据会开一个新 的缓冲区。 默认情况下，将在源的起始处启用新的缓冲区。
     const clicks$ = fromEvent(document,'click');
     const buffer$ = clicks$.pipe(
         bufferCount(2,1)

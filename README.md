@@ -10,70 +10,72 @@
 
 ## 创建类操作符
 
-1. [formEvent](src/app/create-operators/from-event.ts)   
-2. [from](src/app/create-operators/from.ts)   
-3. [of](src/app/create-operators/of.ts)   
-4. [interval](src/app/create-operators/interval.ts)   
-5. [timer](src/app/create-operators/timer.ts)   
-6. [never](src/app/create-operators/never.ts)   
-7. [throwError](src/app/create-operators/throw-error.ts)   
-8. [empty](src/app/create-operators/empty.ts)   
+1.  [formEvent](src/app/create-operators/from-event.ts)   
+2.  [from](src/app/create-operators/from.ts)   
+3.  [of](src/app/create-operators/of.ts)   
+4.  [interval](src/app/create-operators/interval.ts)   
+5.  [timer](src/app/create-operators/timer.ts)   
+6.  [never](src/app/create-operators/never.ts)   
+7.  [throwError](src/app/create-operators/throw-error.ts)   
+8.  [empty](src/app/create-operators/empty.ts)   
 
 ## 工具类操作符
 
-1. [tap](src/app/util-operators/tap.ts)   
+1.  [tap](src/app/util-operators/tap.ts)   
 
 ## 过滤类操作符
 
-1. [debounceTime](src/app/filter-operators/debounce-time.ts)   
-2. [debounce](src/app/filter-operators/debounce.ts)   
-3. [distinct](src/app/filter-operators/distinct.ts)   
-3. [distinctUntilChanged](src/app/filter-operators/distinct-until-changed.ts)   
-4. [filter](src/app/filter-operators/filter.ts)   
-5. [reduce](src/app/filter-operators/reduce.ts)   
-6. [scan](src/app/filter-operators/scan.ts)   
-7. [take](src/app/filter-operators/take.ts)   
-8. [takeUtil](src/app/filter-operators/takeUntil.ts)   
-9. [first](src/app/filter-operators/first.ts)   
-10. [last](src/app/filter-operators/last.ts)   
+1.  [debounceTime](src/app/filter-operators/debounce-time.ts)   
+2.  [debounce](src/app/filter-operators/debounce.ts)   
+3.  [distinct](src/app/filter-operators/distinct.ts)   
+4.  [distinctUntilChanged](src/app/filter-operators/distinct-until-changed.ts)   
+5.  [filter](src/app/filter-operators/filter.ts)   
+6.  [reduce](src/app/filter-operators/reduce.ts)   
+7.  [scan](src/app/filter-operators/scan.ts)   
+8.  [take](src/app/filter-operators/take.ts)   
+9.  [takeUtil](src/app/filter-operators/takeUntil.ts)   
+10. [first](src/app/filter-operators/first.ts)   
+11. [last](src/app/filter-operators/last.ts)   
 
 ## 转换类的操作符
 
-1. [map](src/app/transform-operators/map.ts) 
-2. [mapTo](src/app/transform-operators/map-to.ts) 
-3. [concatMap](src/app/transform-operators/concat-map.ts) 
-4. [concatMapTo](src/app/transform-operators/concat-map-to.ts) 
-5. [pluck](src/app/transform-operators/pluck.ts) 
-6. [buffer](src/app/transform-operators/buffer.ts) 
-7. [bufferCount](src/app/transform-operators/buffer-count.ts) 
-8. [bufferTime](src/app/transform-operators/buffer-time.ts) 
+1.  [map](src/app/transform-operators/map.ts) 
+2.  [mapTo](src/app/transform-operators/map-to.ts) 
+3.  [concatMap](src/app/transform-operators/concat-map.ts) 
+4.  [concatMapTo](src/app/transform-operators/concat-map-to.ts) 
+5.  [pluck](src/app/transform-operators/pluck.ts) 
+6.  [buffer](src/app/transform-operators/buffer.ts) 
+7.  [bufferCount](src/app/transform-operators/buffer-count.ts) 
+8.  [bufferTime](src/app/transform-operators/buffer-time.ts) 
+9.  [bufferToggle](src/app/transform-operators/buffer-toggle.ts) 
+10. [bufferWhen](src/app/transform-operators/buffer-when.ts) 
 
 
 ## 合并类的操作符
 
-1. [combineLatest](src/app/merge-operators/combine-latest.ts) 
-2. [concat](src/app/merge-operators/concat.ts) 
-3. [merge](src/app/merge-operators/merge.ts) 
-4. [startWith](src/app/merge-operators/start-with.ts) 
-5. [zip](src/app/merge-operators/zip.ts) 
-6. [withLatestFrom](src/app/merge-operators/with-latest-from.ts) 
+1.  [combineLatest](src/app/merge-operators/combine-latest.ts) 
+2.  [concat](src/app/merge-operators/concat.ts) 
+3.  [merge](src/app/merge-operators/merge.ts) 
+4.  [startWith](src/app/merge-operators/start-with.ts) 
+5.  [zip](src/app/merge-operators/zip.ts) 
+6.  [withLatestFrom](src/app/merge-operators/with-latest-from.ts) 
 
 ## 高阶操作符
 
-1. [mergeMap](src/app/senior-operators/merge-map.ts) 
-2. [switchMap](src/app/senior-operators/switch-map.ts) 
-3. [mergeMapTo](src/app/senior-operators/merge-map-to.ts) 
-4. [mergeScan](src/app/senior-operators/merge-scan.ts) 
+1.  [mergeMap](src/app/senior-operators/merge-map.ts) 
+2.  [switchMap](src/app/senior-operators/switch-map.ts) 
+3.  [mergeMapTo](src/app/senior-operators/merge-map-to.ts) 
+4.  [mergeScan](src/app/senior-operators/merge-scan.ts) 
 
 ## Subject Class
 
-1. [Subject](src/app/subject-class/subject.ts) 
-2. [BehaviorSubject](src/app/subject-class/behavior-subject.ts) 
-3. [ReplaySubject](src/app/subject-class/replay-subject.ts) 
+1.  [Subject](src/app/subject-class/subject.ts) 
+2.  [BehaviorSubject](src/app/subject-class/behavior-subject.ts) 
+3.  [ReplaySubject](src/app/subject-class/replay-subject.ts) 
 
 ## 自定义操作符
 
-1. [takeEveryNth](src/app/custom-operators/takeEveryNth.ts)
+1.  [takeEveryNth](src/app/custom-operators/takeEveryNth.ts)
 
 ## Jest Unit 测试
 

@@ -49,6 +49,8 @@
 8.  [bufferTime](src/app/transform-operators/buffer-time.ts) 
 9.  [bufferToggle](src/app/transform-operators/buffer-toggle.ts) 
 10. [bufferWhen](src/app/transform-operators/buffer-when.ts) 
+11. [exhaustMap](src/app/transform-operators/exhaust-map.ts) 
+12. [exhaust](src/app/transform-operators/exhaust.ts) 
 
 
 ## 合并类的操作符

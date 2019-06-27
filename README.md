@@ -53,6 +53,8 @@
 12. [exhaust](src/app/transform-operators/exhaust.ts) 
 13. [expand](src/app/transform-operators/expand.ts) 
 14. [groupBy](src/app/transform-operators/group-by.ts) 
+15. [pairwise](src/app/transform-operators/pairwise.ts) 
+16. [partition](src/app/transform-operators/partition.ts) 
 
 
 ## 合并类的操作符

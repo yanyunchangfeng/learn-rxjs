@@ -55,6 +55,8 @@
 14. [groupBy](src/app/transform-operators/group-by.ts) 
 15. [pairwise](src/app/transform-operators/pairwise.ts) 
 16. [partition](src/app/transform-operators/partition.ts) 
+17. [window](src/app/transform-operators/window.ts) 
+18. [windowCount](src/app/transform-operators/window-count.ts) 
 
 
 ## 合并类的操作符

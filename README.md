@@ -57,6 +57,9 @@
 16. [partition](src/app/transform-operators/partition.ts) 
 17. [window](src/app/transform-operators/window.ts) 
 18. [windowCount](src/app/transform-operators/window-count.ts) 
+19. [windowToggle](src/app/transform-operators/window-toggle.ts) 
+20. [windowWhen](src/app/transform-operators/window-when.ts) 
+21. [windowTime](src/app/transform-operators/window-time.ts) 
 
 
 ## 合并类的操作符

@@ -8,7 +8,7 @@ import { window, take,map, mergeAll } from 'rxjs/operators';
 {
     const clicks$ = fromEvent(document,'click');
     const interval$ = interval(1000);
-    // 在每个窗口(窗口间的时间间隔为1秒)中，最多发出两次点击事件
+    // 在每个窗口(窗口间的时间间隔为1秒)中，频繁点击document，最多发出两次点击事件
     const result$ = clicks$.pipe(
         window(interval$),
         map(win => win.pipe(take(2))),

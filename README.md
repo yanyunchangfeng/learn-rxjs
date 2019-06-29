@@ -36,6 +36,8 @@
 9.  [takeUtil](src/app/filter-operators/takeUntil.ts)   
 10. [first](src/app/filter-operators/first.ts)   
 11. [last](src/app/filter-operators/last.ts)   
+12. [throttle](src/app/filter-operators/throttle.ts)   
+13. [throttleTime](src/app/filter-operators/throttle-time.ts)   
 
 ## 转换类的操作符
 
@@ -77,6 +79,7 @@
 2.  [switchMap](src/app/senior-operators/switch-map.ts) 
 3.  [mergeMapTo](src/app/senior-operators/merge-map-to.ts) 
 4.  [mergeScan](src/app/senior-operators/merge-scan.ts) 
+5.  [mergeAll](src/app/senior-operators/merge-all.ts) 
 
 ## Subject Class
 

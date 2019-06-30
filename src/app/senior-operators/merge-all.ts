@@ -14,7 +14,7 @@ import { mergeAll ,map, take} from 'rxjs/operators';
     // 参数concurrent ? 可以同时订阅的输入 Observables 的最大数量
     const click$ = fromEvent(document,'click');
     const result$ = click$.pipe(
-        map( () => interval(1000).pipe(
+        map(() => interval(1000).pipe(
             take(10)
         )),
         mergeAll(2)

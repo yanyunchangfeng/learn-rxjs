@@ -1,4 +1,4 @@
-
+import '../index.scss'
 // Observable  的性质
 // 三种状态 next,error,complete
 

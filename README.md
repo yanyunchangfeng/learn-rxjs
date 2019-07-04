@@ -39,6 +39,8 @@
 12. [last](src/app/filter-operators/last.ts)   
 13. [throttle](src/app/filter-operators/throttle.ts)   
 14. [throttleTime](src/app/filter-operators/throttle-time.ts)   
+15. [audit](src/app/filter-operators/audit.ts)   
+16. [auditTime](src/app/filter-operators/audit-time.ts)   
 
 ## 转换类的操作符
 

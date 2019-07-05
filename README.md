@@ -41,6 +41,8 @@
 14. [throttleTime](src/app/filter-operators/throttle-time.ts)   
 15. [audit](src/app/filter-operators/audit.ts)   
 16. [auditTime](src/app/filter-operators/audit-time.ts)   
+17. [sample](src/app/filter-operators/sample.ts)   
+18. [sampleTime](src/app/filter-operators/sample-time.ts)   
 
 ## 转换类的操作符
 

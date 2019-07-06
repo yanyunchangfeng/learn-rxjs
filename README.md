@@ -43,6 +43,8 @@
 16. [auditTime](src/app/filter-operators/audit-time.ts)   
 17. [sample](src/app/filter-operators/sample.ts)   
 18. [sampleTime](src/app/filter-operators/sample-time.ts)   
+19. [single](src/app/filter-operators/single.ts)   
+20. [skipLast](src/app/filter-operators/skip-last.ts)   
 
 ## 转换类的操作符
 

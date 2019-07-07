@@ -10,14 +10,16 @@
 
 ## 创建类操作符
 
-1.  [formEvent](src/app/create-operators/from-event.ts)   
-2.  [from](src/app/create-operators/from.ts)   
-3.  [of](src/app/create-operators/of.ts)   
-4.  [interval](src/app/create-operators/interval.ts)   
-5.  [timer](src/app/create-operators/timer.ts)   
-6.  [never](src/app/create-operators/never.ts)   
-7.  [throwError](src/app/create-operators/throw-error.ts)   
-8.  [empty](src/app/create-operators/empty.ts)   
+1.   [formEvent](src/app/create-operators/from-event.ts)   
+2.   [from](src/app/create-operators/from.ts)   
+3.   [of](src/app/create-operators/of.ts)   
+4.   [interval](src/app/create-operators/interval.ts)   
+5.   [timer](src/app/create-operators/timer.ts)   
+6.   [never](src/app/create-operators/never.ts)   
+7.   [throwError](src/app/create-operators/throw-error.ts)   
+8.   [empty](src/app/create-operators/empty.ts)   
+9.   [range](src/app/create-operators/range.ts)   
+10.  [defer](src/app/create-operators/defer.ts)   
 
 ## 工具类操作符
 

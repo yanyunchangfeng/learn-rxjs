@@ -22,6 +22,7 @@
 10.  [defer](src/app/create-operators/defer.ts)   
 11.  [generate](src/app/create-operators/generate.ts)   
 12.  [create](src/app/create-operators/create.ts)   
+13.  [ajax](src/app/create-operators/ajax.ts)   
 
 ## 工具类操作符
 
@@ -83,6 +84,7 @@
 4.  [startWith](src/app/merge-operators/start-with.ts) 
 5.  [zip](src/app/merge-operators/zip.ts) 
 6.  [withLatestFrom](src/app/merge-operators/with-latest-from.ts) 
+7.  [race](src/app/merge-operators/race.ts) 
 
 ## 高阶操作符
 

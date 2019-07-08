@@ -20,6 +20,8 @@
 8.   [empty](src/app/create-operators/empty.ts)   
 9.   [range](src/app/create-operators/range.ts)   
 10.  [defer](src/app/create-operators/defer.ts)   
+11.  [generate](src/app/create-operators/generate.ts)   
+12.  [create](src/app/create-operators/create.ts)   
 
 ## 工具类操作符
 

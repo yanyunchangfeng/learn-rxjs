@@ -11,5 +11,6 @@ import { exhaustMap, take } from 'rxjs/operators';
             return interval(1000).pipe(take(5));
         })
     )
+    // 只要没有当前活动的计时器，那么每次点击就会运行一个有限的计时器
     result$.subscribe(val => console.log(val))
 }

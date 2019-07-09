@@ -12,5 +12,15 @@ import { mapTo, expand, delay, take } from 'rxjs/operators';
         take(10)
     )
     // 每次点击开始发出的值都是乘以2的，最多连乘10次
+    // 1
+    // 2
+    // 4
+    // 8
+    // 16
+    // 32
+    // 64
+    // 128
+    // 256
+    // 512
     result$.subscribe(val => console.log(val))
 }

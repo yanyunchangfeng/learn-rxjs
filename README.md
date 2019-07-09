@@ -23,6 +23,7 @@
 11.  [generate](src/app/create-operators/generate.ts)   
 12.  [create](src/app/create-operators/create.ts)   
 13.  [ajax](src/app/create-operators/ajax.ts)   
+14.  [fromEventPattern](src/app/create-operators/from-event-pattern.ts)   
 
 ## 工具类操作符
 
@@ -50,6 +51,7 @@
 18. [sampleTime](src/app/filter-operators/sample-time.ts)   
 19. [single](src/app/filter-operators/single.ts)   
 20. [skipLast](src/app/filter-operators/skip-last.ts)   
+21. [elementAt](src/app/filter-operators/element-at.ts)   
 
 ## 转换类的操作符
 

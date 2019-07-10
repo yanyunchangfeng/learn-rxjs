@@ -40,7 +40,7 @@
 7.  [reduce](src/app/filter-operators/reduce.ts)   
 8.  [scan](src/app/filter-operators/scan.ts)   
 9.  [take](src/app/filter-operators/take.ts)   
-10. [takeUtil](src/app/filter-operators/takeUntil.ts)   
+10. [takeUtil](src/app/filter-operators/take-until.ts)   
 11. [first](src/app/filter-operators/first.ts)   
 12. [last](src/app/filter-operators/last.ts)   
 13. [throttle](src/app/filter-operators/throttle.ts)   
@@ -54,6 +54,8 @@
 21. [elementAt](src/app/filter-operators/element-at.ts)   
 22. [ignore-elements](src/app/filter-operators/ignore-elements.ts)   
 23. [skipUntil](src/app/filter-operators/skip-until.ts)   
+24. [takeWhile](src/app/filter-operators/take-while.ts)   
+25. [skipWhile](src/app/filter-operators/skip-while.ts)   
 
 ## 转换类的操作符
 

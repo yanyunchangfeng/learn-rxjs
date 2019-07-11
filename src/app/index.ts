@@ -67,7 +67,7 @@ import '../index.scss'
 // import './filter-operators/ignore-elements'   
 // import './filter-operators/skip-until'   
 // import './filter-operators/take-while'   
-import './filter-operators/skip-while'   
+// import './filter-operators/skip-while'   
 // import './merge-operators/merge'
 // import './merge-operators/concat'
 // import './merge-operators/start-with'
@@ -83,5 +83,7 @@ import './filter-operators/skip-while'
 // import './subject-class/subject'
 // import './subject-class/behavior-subject'
 // import './subject-class/replay-subject'
+// import './subject-class/async-subject'
 // import './util-operators/tap';
+import './util-operators/delay';
 // import './custom-operators/takeEveryNth';

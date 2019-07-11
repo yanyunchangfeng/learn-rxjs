@@ -28,6 +28,7 @@
 ## 工具类操作符
 
 1.  [tap](src/app/util-operators/tap.ts)   
+2.  [delay](src/app/util-operators/delay.ts)   
 
 ## 过滤类操作符
 
@@ -105,6 +106,7 @@
 1.  [Subject](src/app/subject-class/subject.ts) 
 2.  [BehaviorSubject](src/app/subject-class/behavior-subject.ts) 
 3.  [ReplaySubject](src/app/subject-class/replay-subject.ts) 
+4.  [AsyncSubject](src/app/subject-class/replay-subject.ts) 
 
 ## 自定义操作符
 

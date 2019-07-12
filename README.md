@@ -97,6 +97,8 @@
 
 1.  [defaultIfEmpty](src/app/conditional-operators/default-if-empty.ts)  
 2.  [iif](src/app/conditional-operators/iif.ts) 
+3.  [find](src/app/conditional-operators/find.ts) 
+4.  [findIndex](src/app/conditional-operators/find-index.ts) 
 
 
 ## 高阶操作符

@@ -86,6 +86,9 @@ import '../index.scss'
 // import './subject-class/async-subject'
 // import './util-operators/tap';
 // import './util-operators/delay';
+// import './util-operators/delay-when';
 // import './conditional-operators/default-if-empty';
-import './conditional-operators/iif';
+// import './conditional-operators/iif';
+// import './conditional-operators/find';
+import './conditional-operators/find-index';
 // import './custom-operators/takeEveryNth';

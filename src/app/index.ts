@@ -90,5 +90,8 @@ import '../index.scss'
 // import './conditional-operators/default-if-empty';
 // import './conditional-operators/iif';
 // import './conditional-operators/find';
-import './conditional-operators/find-index';
+// import './conditional-operators/find-index';
+// import './conditional-operators/count';
+// import './conditional-operators/every';
+import './conditional-operators/squence-equal';
 // import './custom-operators/takeEveryNth';

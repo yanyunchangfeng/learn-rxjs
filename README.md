@@ -29,6 +29,7 @@
 
 1.  [tap](src/app/util-operators/tap.ts)   
 2.  [delay](src/app/util-operators/delay.ts)   
+3.  [delayWhen](src/app/util-operators/delay-when.ts)   
 
 ## 过滤类操作符
 
@@ -99,6 +100,9 @@
 2.  [iif](src/app/conditional-operators/iif.ts) 
 3.  [find](src/app/conditional-operators/find.ts) 
 4.  [findIndex](src/app/conditional-operators/find-index.ts) 
+5.  [count](src/app/conditional-operators/count.ts) 
+6.  [every](src/app/conditional-operators/every.ts) 
+7.  [squenceEqual](src/app/conditional-operators/squence-equal.ts) 
 
 
 ## 高阶操作符

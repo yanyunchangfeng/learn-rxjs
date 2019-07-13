@@ -75,6 +75,8 @@ import '../index.scss'
 // import './merge-operators/zip'
 // import './merge-operators/with-latest-from'
 // import './merge-operators/race'
+import './merge-operators/combine-all'
+// import './merge-operators/concat-all'
 // import './senior-operators/merge-map'
 // import './senior-operators/merge-map-to'
 // import './senior-operators/merge-scan'
@@ -93,5 +95,5 @@ import '../index.scss'
 // import './conditional-operators/find-index';
 // import './conditional-operators/count';
 // import './conditional-operators/every';
-import './conditional-operators/squence-equal';
+// import './conditional-operators/squence-equal';
 // import './custom-operators/takeEveryNth';

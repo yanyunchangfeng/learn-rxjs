@@ -93,6 +93,8 @@
 5.  [zip](src/app/merge-operators/zip.ts) 
 6.  [withLatestFrom](src/app/merge-operators/with-latest-from.ts) 
 7.  [race](src/app/merge-operators/race.ts) 
+8.  [combineAll](src/app/merge-operators/combine-all.ts) 
+9.  [concatAll](src/app/merge-operators/concat-all.ts) 
 
 ## 条件类的操作符
 

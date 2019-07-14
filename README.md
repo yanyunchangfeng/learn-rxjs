@@ -82,6 +82,8 @@
 19. [windowToggle](src/app/transform-operators/window-toggle.ts) 
 20. [windowWhen](src/app/transform-operators/window-when.ts) 
 21. [windowTime](src/app/transform-operators/window-time.ts) 
+22. [repeat](src/app/transform-operators/repeat.ts) 
+23. [repeatWhen](src/app/transform-operators/repeat-when.ts) 
 
 
 ## 合并类的操作符

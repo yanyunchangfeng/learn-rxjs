@@ -42,6 +42,8 @@ import '../index.scss'
 // import './transform-operators/window-toggle'
 // import './transform-operators/window-when'
 // import './transform-operators/window-time'
+// import './transform-operators/repeat'
+import './transform-operators/repeat-when'
 // import './filter-operators/filter'
 // import './filter-operators/take'
 // import './filter-operators/takeUtil'
@@ -75,7 +77,7 @@ import '../index.scss'
 // import './merge-operators/zip'
 // import './merge-operators/with-latest-from'
 // import './merge-operators/race'
-import './merge-operators/combine-all'
+// import './merge-operators/combine-all'
 // import './merge-operators/concat-all'
 // import './senior-operators/merge-map'
 // import './senior-operators/merge-map-to'
@@ -96,4 +98,5 @@ import './merge-operators/combine-all'
 // import './conditional-operators/count';
 // import './conditional-operators/every';
 // import './conditional-operators/squence-equal';
+// import './conditional-operators/is-empty';
 // import './custom-operators/takeEveryNth';

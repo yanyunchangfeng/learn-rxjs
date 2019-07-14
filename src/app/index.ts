@@ -43,7 +43,7 @@ import '../index.scss'
 // import './transform-operators/window-when'
 // import './transform-operators/window-time'
 // import './transform-operators/repeat'
-import './transform-operators/repeat-when'
+// import './transform-operators/repeat-when'
 // import './filter-operators/filter'
 // import './filter-operators/take'
 // import './filter-operators/takeUtil'
@@ -99,4 +99,5 @@ import './transform-operators/repeat-when'
 // import './conditional-operators/every';
 // import './conditional-operators/squence-equal';
 // import './conditional-operators/is-empty';
+import './multicast-operators/multicast';
 // import './custom-operators/takeEveryNth';

@@ -117,6 +117,10 @@
 4.  [mergeScan](src/app/senior-operators/merge-scan.ts) 
 5.  [mergeAll](src/app/senior-operators/merge-all.ts) 
 
+## 高阶操作符
+
+1.  [multicast](src/app/multicast-operators/multicast.ts)  
+
 ## Subject Class
 
 1.  [Subject](src/app/subject-class/subject.ts) 

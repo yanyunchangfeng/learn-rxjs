@@ -99,5 +99,7 @@ import '../index.scss'
 // import './conditional-operators/every';
 // import './conditional-operators/squence-equal';
 // import './conditional-operators/is-empty';
-import './multicast-operators/multicast';
+// import './multicast-operators/multicast';
+// import './multicast-operators/share';
+import './multicast-operators/share-replay';
 // import './custom-operators/takeEveryNth';

@@ -91,6 +91,7 @@ import '../index.scss'
 // import './util-operators/tap';
 // import './util-operators/delay';
 // import './util-operators/delay-when';
+import './util-operators/dematerialize';
 // import './conditional-operators/default-if-empty';
 // import './conditional-operators/iif';
 // import './conditional-operators/find';
@@ -101,5 +102,6 @@ import '../index.scss'
 // import './conditional-operators/is-empty';
 // import './multicast-operators/multicast';
 // import './multicast-operators/share';
-import './multicast-operators/share-replay';
+// import './multicast-operators/share-replay';
+// import './multicast-operators/publish';
 // import './custom-operators/takeEveryNth';

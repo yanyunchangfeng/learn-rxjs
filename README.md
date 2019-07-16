@@ -30,6 +30,7 @@
 1.  [tap](src/app/util-operators/tap.ts)   
 2.  [delay](src/app/util-operators/delay.ts)   
 3.  [delayWhen](src/app/util-operators/delay-when.ts)   
+4.  [dematerialize](src/app/util-operators/dematerialize.ts)   
 
 ## 过滤类操作符
 
@@ -117,11 +118,12 @@
 4.  [mergeScan](src/app/senior-operators/merge-scan.ts) 
 5.  [mergeAll](src/app/senior-operators/merge-all.ts) 
 
-## 高阶操作符
+## 多播操作符
 
 1.  [multicast](src/app/multicast-operators/multicast.ts)  
 2.  [share](src/app/multicast-operators/share.ts)  
 3.  [shareReplay](src/app/multicast-operators/share-replay.ts)  
+4.  [publish](src/app/multicast-operators/publish.ts)  
 
 ## Subject Class
 

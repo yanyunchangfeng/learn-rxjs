@@ -89,15 +89,17 @@
 
 ## 合并类的操作符
 
-1.  [combineLatest](src/app/merge-operators/combine-latest.ts) 
-2.  [concat](src/app/merge-operators/concat.ts) 
-3.  [merge](src/app/merge-operators/merge.ts) 
-4.  [startWith](src/app/merge-operators/start-with.ts) 
-5.  [zip](src/app/merge-operators/zip.ts) 
-6.  [withLatestFrom](src/app/merge-operators/with-latest-from.ts) 
-7.  [race](src/app/merge-operators/race.ts) 
-8.  [combineAll](src/app/merge-operators/combine-all.ts) 
-9.  [concatAll](src/app/merge-operators/concat-all.ts) 
+1.   [combineLatest](src/app/merge-operators/combine-latest.ts) 
+2.   [concat](src/app/merge-operators/concat.ts) 
+3.   [merge](src/app/merge-operators/merge.ts) 
+4.   [startWith](src/app/merge-operators/start-with.ts) 
+5.   [zip](src/app/merge-operators/zip.ts) 
+6.   [withLatestFrom](src/app/merge-operators/with-latest-from.ts) 
+7.   [race](src/app/merge-operators/race.ts) 
+8.   [combineAll](src/app/merge-operators/combine-all.ts) 
+9.   [concatAll](src/app/merge-operators/concat-all.ts) 
+10.  [endWith](src/app/merge-operators/end-with.ts) 
+11.  [forkJoin](src/app/merge-operators/fork-join.ts) 
 
 ## 条件类的操作符
 

@@ -79,6 +79,8 @@ import '../index.scss'
 // import './merge-operators/race'
 // import './merge-operators/combine-all'
 // import './merge-operators/concat-all'
+// import './merge-operators/end-with' 
+import './merge-operators/fork-join' 
 // import './senior-operators/merge-map'
 // import './senior-operators/merge-map-to'
 // import './senior-operators/merge-scan'
@@ -91,7 +93,7 @@ import '../index.scss'
 // import './util-operators/tap';
 // import './util-operators/delay';
 // import './util-operators/delay-when';
-import './util-operators/dematerialize';
+// import './util-operators/dematerialize';
 // import './conditional-operators/default-if-empty';
 // import './conditional-operators/iif';
 // import './conditional-operators/find';

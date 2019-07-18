@@ -59,6 +59,8 @@
 23. [skipUntil](src/app/filter-operators/skip-until.ts)   
 24. [takeWhile](src/app/filter-operators/take-while.ts)   
 25. [skipWhile](src/app/filter-operators/skip-while.ts)   
+26. [min](src/app/filter-operators/min.ts)   
+27. [max](src/app/filter-operators/max.ts)   
 
 ## 转换类的操作符
 

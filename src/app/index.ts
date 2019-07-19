@@ -71,7 +71,7 @@ import '../index.scss'
 // import './filter-operators/take-while'   
 // import './filter-operators/skip-while'   
 // import './filter-operators/min'   
-import './filter-operators/max'   
+// import './filter-operators/max'   
 // import './merge-operators/merge'
 // import './merge-operators/concat'
 // import './merge-operators/start-with'
@@ -96,6 +96,8 @@ import './filter-operators/max'
 // import './util-operators/delay';
 // import './util-operators/delay-when';
 // import './util-operators/dematerialize';
+// import './util-operators/materialize';
+import './util-operators/time-interval';
 // import './conditional-operators/default-if-empty';
 // import './conditional-operators/iif';
 // import './conditional-operators/find';

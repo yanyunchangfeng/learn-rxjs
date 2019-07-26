@@ -33,6 +33,7 @@
 4.  [dematerialize](src/app/util-operators/dematerialize.ts)   
 5.  [materialize](src/app/util-operators/materialize.ts)   
 5.  [timeInterval](src/app/util-operators/time-interval.ts)   
+5.  [timeout](src/app/util-operators/time-out.ts)   
 
 ## 过滤类操作符
 

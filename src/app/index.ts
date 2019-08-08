@@ -98,7 +98,8 @@ import '../index.scss'
 // import './util-operators/dematerialize';
 // import './util-operators/materialize';
 // import './util-operators/time-interval';
-import './util-operators/time-out';
+// import './util-operators/time-out';
+import './util-operators/time-out-with';
 // import './conditional-operators/default-if-empty';
 // import './conditional-operators/iif';
 // import './conditional-operators/find';

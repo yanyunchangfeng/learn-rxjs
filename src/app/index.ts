@@ -44,6 +44,7 @@ import '../index.scss'
 // import './transform-operators/window-time'
 // import './transform-operators/repeat'
 // import './transform-operators/repeat-when'
+// import './transform-operators/to-array'
 // import './filter-operators/filter'
 // import './filter-operators/take'
 // import './filter-operators/takeUtil'
@@ -99,7 +100,8 @@ import '../index.scss'
 // import './util-operators/materialize';
 // import './util-operators/time-interval';
 // import './util-operators/time-out';
-import './util-operators/time-out-with';
+// import './util-operators/time-out-with';
+import './util-operators/time-stamp';
 // import './conditional-operators/default-if-empty';
 // import './conditional-operators/iif';
 // import './conditional-operators/find';

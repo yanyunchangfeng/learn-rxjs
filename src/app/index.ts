@@ -101,7 +101,7 @@ import '../index.scss'
 // import './util-operators/time-interval';
 // import './util-operators/time-out';
 // import './util-operators/time-out-with';
-import './util-operators/time-stamp';
+// import './util-operators/time-stamp';
 // import './conditional-operators/default-if-empty';
 // import './conditional-operators/iif';
 // import './conditional-operators/find';
@@ -115,3 +115,5 @@ import './util-operators/time-stamp';
 // import './multicast-operators/share-replay';
 // import './multicast-operators/publish';
 // import './custom-operators/takeEveryNth';
+
+import './my-observable'

@@ -1,10 +1,13 @@
-import { ajax } from 'rxjs/ajax';
+import { ajax } from "rxjs/ajax";
 {
-    const githubUsers = `https://api.github.com/users?per_page=2`;
-    const users$ = ajax(githubUsers);
-    users$.subscribe(res => console.log(res),
-        err => console.log(err))
-    /* output
+  const githubUsers = `https://api.github.com/users?per_page=2`;
+  const users$ = ajax(githubUsers);
+  users$.subscribe({
+    next: (res) => console.log(res),
+    error: () => {},
+    complete: () => {},
+  });
+  /* output
         {  
         "originalEvent":{  
             "isTrusted":true

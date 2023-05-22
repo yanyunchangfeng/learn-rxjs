@@ -1,1 +1,4 @@
-module.exports = env => require(`./config/webpack.${env}`)
+module.exports = (env, argv) => {
+  env = process.env.NODE_ENV === "development" ? "dev" : "prod";
+  return require(`./config/webpack.${env}`);
+};

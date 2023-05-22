@@ -1,16 +1,30 @@
 {
-    "compilerOptions": {
-        "baseUrl": "./",
-        "outDir": "./components",
-        "rootDir": "src/app",
-        "lib": ["es2017", "dom"],
-        "module": "esnext",
-        "moduleResolution": "node",
-        "target": "es5",
-        "sourceMap": true,
-        "declaration": true,
-        "noImplicitAny": true,
-        "noImplicitReturns": true
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "module": "esnext",
+    "strict": true,
+    "lib": ["esnext", "dom"],
+    "target": "es2020",
+    "sourceMap": true,
+    "jsx": "react",
+    "baseUrl": "./",
+    "paths": {
+      "src/*": [
+        "src/*" // alias让webpack识别 paths让ts识别
+      ],
+      "*": ["src/types/*"]
     },
-    "include": ["src/**/*.ts"]
+    // "preserveConstEnums": true, // 编译结果保留const定义的常量枚举 默认关闭
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "incremental": true // 启动增量编译
+  },
+  "include": [
+    "src/**/*", // 两个*表示任意目录 一个*表示任意文件
+    "src/typings/**/*",
+    "test/**/*"
+  ]
 }

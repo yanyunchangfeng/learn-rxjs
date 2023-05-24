@@ -89,7 +89,6 @@
 * [windowWhen](src/app/transform-operators/window-when.ts) 
 * [windowTime](src/app/transform-operators/window-time.ts) 
 * [repeat](src/app/transform-operators/repeat.ts) 
-* [repeatWhen](src/app/transform-operators/repeat-when.ts) 
 * [toArray](src/app/transform-operators/to-array.ts) 
 
 

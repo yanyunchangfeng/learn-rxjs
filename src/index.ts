@@ -40,7 +40,6 @@ import "./index.scss";
 // import 'src/app/transform-operators/window-when'
 // import 'src/app/transform-operators/window-time'
 // import 'src/app/transform-operators/repeat'
-// import 'src/app/transform-operators/repeat-when'
 // import 'src/app/transform-operators/to-array'
 // import 'src/app/filter-operators/filter'
 // import 'src/app/filter-operators/take'
@@ -92,13 +91,12 @@ import "./index.scss";
 // import 'src/app/subject-class/async-subject'
 // import 'src/app/util-operators/tap';
 // import 'src/app/util-operators/delay';
-// import 'src/app/util-operators/delay-when';
-// import 'src/app/util-operators/dematerialize';
+// import "src/app/util-operators/delay-when";
+// import "src/app/util-operators/dematerialize";
 // import 'src/app/util-operators/materialize';
 // import 'src/app/util-operators/time-interval';
-// import 'src/app/util-operators/time-out';
-// import 'src/app/util-operators/time-out-with';
-// import 'src/app/util-operators/time-stamp';
+// import "src/app/util-operators/time-out";
+// import "src/app/util-operators/time-stamp";
 // import 'src/app/conditional-operators/default-if-empty';
 // import 'src/app/conditional-operators/iif';
 // import 'src/app/conditional-operators/find';
